@@ -4,7 +4,7 @@ This repository contains the Arduino code for an autonomous fire-fighting robot.
 
 ## 🌟 Features
 
-- **Fire Detection**: Utilizes infrared sensors to detect fires 🔥 from different directions.
+- **Fire Detection**: Utilizes flame sensors to detect fires 🔥 from different directions.
 - **Automatic Water Discharge**: Activates a water pump 💦 automatically to extinguish detected fires.
 - **Controlled Navigation**: Moves forward slowly 🐢 to cover areas effectively.
 
@@ -27,10 +27,7 @@ The robot's behavior is controlled by an Arduino sketch that:
 
 ## 🛠 Setup and Deployment
 
-1. Assemble the hardware according to the circuit diagram provided in this repository.
-2. Install the Arduino IDE and open the provided sketch.
-3. Upload the sketch to the Arduino board.
-4. Power the robot and test it in a safe, controlled environment to ensure it operates as expected.
+Follow connections according to code.
 
 ## 🤝 Contributing
 
