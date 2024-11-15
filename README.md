@@ -32,7 +32,6 @@ Follow connections according to code.
 
 <video controls>
   <source src="https://github.com/GovardhanaRekam/FireFightRobot/blob/main/FireFightRobot_Test.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 ## 🤝 Contributing
