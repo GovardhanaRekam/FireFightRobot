@@ -28,6 +28,12 @@ The robot's behavior is controlled by an Arduino sketch that:
 ## 🛠 Setup and Deployment
 
 Follow connections according to code.
+## 🔥 Fire-Fighting Robot in Action
+
+<video controls>
+  <source src="https://github.com/GovardhanaRekam/FireFightRobot/blob/main/FireFightRobot_Test.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🤝 Contributing
 
